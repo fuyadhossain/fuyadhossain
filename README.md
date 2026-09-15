@@ -84,11 +84,11 @@
   <p>🔗 <b>Live Demo:</b> <a href="https://examsystem.fuyadhossain.xyz/">IsDB-BISEW_Exam_Management_System</a></p>
 </td>
     <td width="50%">
-      <a href="https://github.com/fuyadhossain/Javascript">
-        <img src="https://raw.githubusercontent.com/fuyadhossain/fuyadhossain/main/Images/idb-bisew.png" width="50%"/>
-      </a>
-      <p>🔗 <b>Live Demo:</b> <a href="#">add-your-live-link</a></p>
-    </td>
+  <a href="https://github.com/fuyadhossain/Javascript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="150"/>
+  </a>
+  <p>🔗 <b>Live Demo:</b> <a href="#">add-your-live-link</a></p>
+</td>
   </tr>
 </table>
 
