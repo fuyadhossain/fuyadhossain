@@ -78,14 +78,14 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="[https://github.com/fuyadhossain/MyProject](https://github.com/fuyadhossain/IsDB-BISEW_Exam_Management_System)">
-        <img src="https://github.com/fuyadhossain/fuyadhossain/blob/main/Images/idb-bisew.png" width="100%"/>
-      </a>
-      <p>🔗 <b>Live Demo:</b> <a href="https://examsystem.fuyadhossain.xyz/">IsDB-BISEW_Exam_Management_System</a></p>
-    </td>
+  <a href="https://github.com/fuyadhossain/IsDB-BISEW_Exam_Management_System">
+    <img src="https://raw.githubusercontent.com/fuyadhossain/fuyadhossain/main/Images/idb-bisew.png" width="150"/>
+  </a>
+  <p>🔗 <b>Live Demo:</b> <a href="https://examsystem.fuyadhossain.xyz/">IsDB-BISEW_Exam_Management_System</a></p>
+</td>
     <td width="50%">
       <a href="https://github.com/fuyadhossain/Javascript">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuyadhossain&repo=Javascript&theme=tokyonight&hide_border=true" width="100%"/>
+        <img src="https://raw.githubusercontent.com/fuyadhossain/fuyadhossain/main/Images/idb-bisew.png" width="50%"/>
       </a>
       <p>🔗 <b>Live Demo:</b> <a href="#">add-your-live-link</a></p>
     </td>
