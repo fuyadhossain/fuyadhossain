@@ -18,7 +18,7 @@
 
 - 🔭 I'm currently building projects with **React + Vite** and **Laravel**
 - 🌱 I'm continuously learning modern **frontend & backend** technologies
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React, PHP, Laravel, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Laravel, MySQL**
 - ⚡ Fun fact: I enjoy turning ideas into clean, working web apps
 - 📫 Reach me at: **fuyadhasssan267@gmail.com**
 
