@@ -12,45 +12,15 @@
   </a>
 </p>
 
-<pre align="center" style="font-size:6px; line-height:6px;">
-                                                                      
-                               ..:::....                              
-                          :=**#%%%%%%%%%#+=:                          
-                       -+#%%%%%%%%%%%%%@@@%%#=:                       
-                    :+#%%%%%%%%%%%%%%%%%%%%%%%%*:                     
-                  :*%@@%%@@@@%%%@%%%%%%%%%%%%%@%%=                    
-                 :#%%%@@%%%@@@@@@@@@%%%%%%%%%%%%%%=                   
-                 *@%%%@@@%%@@@@@@@@@@@@@@%%@%%%%#%#:                  
-                 +%%%%%%%%%%######**#**##%%%%%%%###+                  
-                 +%%%%#*++=====---------===+*#%%%%%#                  
-                 :%%%*==---------------------=+#%%%=                  
-                  +%#+------------:-----------=*%%#.                  
-                  .#*=--==------------:---===--=#%+                   
-                   ==-=+****+=-::::::--=+***++=-+%-                   
-                 .=+=-==+++**#*+=-:-=+****++===-=*--                  
-                 =++=--=+*+##+++=---=+++##+++=---=-=-                 
-                 =++=---===++====-:--=====-=-----===-                 
-                 :++--------------:--------------===.                 
-                  -==---:::::--=-:::---::::::----==:                  
-                    -----::::-===-:-==----::-----:                    
-                    .==------=*###**%#*+=--------                     
-                     :+==-=*#%##******#%%#=---==:                     
-                      :++=+**++++====+++++*====:                      
-                     :++**+=--==+*##*=-----=+*+                       
-                    -%%=+*#*+=--+***+=--=+**++%#-                     
-                   .%%%+==+*###********###*==+%%%:                    
-                   =%%@*====++**######**+====+%%%+                    
-</pre>
-
 ---
 
 ### 🚀 About Me
 
 - 🔭 I'm currently building projects with **React + Vite** and **Laravel**
 - 🌱 I'm continuously learning modern **frontend & backend** technologies
-- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Laravel, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React, PHP, Laravel, MySQL**
 - ⚡ Fun fact: I enjoy turning ideas into clean, working web apps
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **fuyadhasssan267@gmail.com**
 
 ---
 
@@ -132,16 +102,16 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/fuyadhossain/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/your-facebook/" target="_blank">
+  <a href="https://www.facebook.com/fuyadhossain2" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:fuyadhasssan267@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://fuyadhossain.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
