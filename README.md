@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fuyad Hossain</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9333EA&height=200&section=header&text=Fuyad%20Hossain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" alt="banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;React+%2B+Vite+Enthusiast;Laravel+%26+PHP+Backend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
@@ -11,15 +12,45 @@
   </a>
 </p>
 
+<pre align="center" style="font-size:6px; line-height:6px;">
+                                                                      
+                               ..:::....                              
+                          :=**#%%%%%%%%%#+=:                          
+                       -+#%%%%%%%%%%%%%@@@%%#=:                       
+                    :+#%%%%%%%%%%%%%%%%%%%%%%%%*:                     
+                  :*%@@%%@@@@%%%@%%%%%%%%%%%%%@%%=                    
+                 :#%%%@@%%%@@@@@@@@@%%%%%%%%%%%%%%=                   
+                 *@%%%@@@%%@@@@@@@@@@@@@@%%@%%%%#%#:                  
+                 +%%%%%%%%%%######**#**##%%%%%%%###+                  
+                 +%%%%#*++=====---------===+*#%%%%%#                  
+                 :%%%*==---------------------=+#%%%=                  
+                  +%#+------------:-----------=*%%#.                  
+                  .#*=--==------------:---===--=#%+                   
+                   ==-=+****+=-::::::--=+***++=-+%-                   
+                 .=+=-==+++**#*+=-:-=+****++===-=*--                  
+                 =++=--=+*+##+++=---=+++##+++=---=-=-                 
+                 =++=---===++====-:--=====-=-----===-                 
+                 :++--------------:--------------===.                 
+                  -==---:::::--=-:::---::::::----==:                  
+                    -----::::-===-:-==----::-----:                    
+                    .==------=*###**%#*+=--------                     
+                     :+==-=*#%##******#%%#=---==:                     
+                      :++=+**++++====+++++*====:                      
+                     :++**+=--==+*##*=-----=+*+                       
+                    -%%=+*#*+=--+***+=--=+**++%#-                     
+                   .%%%+==+*###********###*==+%%%:                    
+                   =%%@*====++**######**+====+%%%+                    
+</pre>
+
 ---
 
 ### 🚀 About Me
 
 - 🔭 I'm currently building projects with **React + Vite** and **Laravel**
 - 🌱 I'm continuously learning modern **frontend & backend** technologies
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React, PHP, Laravel, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, Laravel, MySQL**
 - ⚡ Fun fact: I enjoy turning ideas into clean, working web apps
-- 📫 Reach me at: **fuyadhasan267@gmail.com**
+- 📫 Reach me at: **your-email@example.com**
 
 ---
 
@@ -73,12 +104,26 @@
 
 ### 📌 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/fuyadhossain/MyProject">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuyadhossain&repo=MyProject&theme=tokyonight&hide_border=true" width="100%"/>
+      </a>
+      <p>🔗 <b>Live Demo:</b> <a href="#">add-your-live-link</a></p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/fuyadhossain/Javascript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuyadhossain&repo=Javascript&theme=tokyonight&hide_border=true" width="100%"/>
+      </a>
+      <p>🔗 <b>Live Demo:</b> <a href="#">add-your-live-link</a></p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/fuyadhossain/MyProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuyadhossain&repo=MyProject&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/fuyadhossain/Javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuyadhossain&repo=Javascript&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/fuyadhossain?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
